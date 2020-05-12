@@ -1,6 +1,6 @@
 # RedditCast
 
-A python program to cast images from a certain subreddit on to a google cast device. The subreddit is chosen at random from a user defined pool and the posts are picked from the "hot" tab. Currently supports png and jpg.
+A python program to cast images from a certain subreddit on to a ChromeCast. The subreddit is chosen at random from a user defined pool and the posts are picked from the "hot" tab. Currently supports png and jpg.
 
 ## Config
 
